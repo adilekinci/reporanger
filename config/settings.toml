@@ -1,0 +1,7 @@
+base_path = ""
+log_level = "DEBUG"
+max_projects = 50
+project_prefix = ""
+spring_profile = "local"
+send_to_remote = true
+

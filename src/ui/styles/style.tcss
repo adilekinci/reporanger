@@ -1,0 +1,21 @@
+Screen {
+    layout: vertical;
+}
+#left-panel {
+    width: 30%;
+}
+#right-panel {
+    width: 70%;
+}
+#log-panel {
+    width: 100%;
+    height: auto;
+}
+
+Header {
+    dock: top;
+}
+
+Footer {
+    dock: bottom;
+}
